@@ -6,11 +6,11 @@
 # Flask application architecture tools.
 from flask import Flask
 # Cross-origin resource sharing tools.
-from flask_cors import CORS
+from flask-cors import CORS
 # Database migration and updating tools.
-from flask_migrate import Migrate
+from flask-migrate import Migrate
 # SQLAlchemy Flask-to-SQL communications tools.
-from flask_sqlalchemy import SQLAlchemy
+from flask-sqlalchemy import SQLAlchemy
 # SQL database schema metadata management tools.
 from sqlalchemy import MetaData
 
